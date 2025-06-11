@@ -1,4 +1,4 @@
-AIML Internship Task 5 – Decision Trees & Random Forests
+Task 5 – Decision Trees & Random Forests (ELEVATE LABS AIML INTERNSHIP JUNE 2025)
 
 Objective:
 To implement Decision Tree and Random Forest classifiers, visualize the tree, compare accuracies, and evaluate feature importance using a heart disease dataset.
